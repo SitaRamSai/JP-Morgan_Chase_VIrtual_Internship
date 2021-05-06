@@ -1,4 +1,4 @@
-# JPMorgan Chase Virtual Internship
+# JP-Morgan Chase Virtual Internship
 This program is provided by JPMorgan Chase & Co. 
 
 ## Project Overview
