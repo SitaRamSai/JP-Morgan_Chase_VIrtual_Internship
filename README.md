@@ -32,7 +32,7 @@ https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Mor
 - [Node.js](https://nodejs.org/en/)
 
 ## Certificate Of Completion
-![image](https://user-images.githubusercontent.com/57385355/117342241-9e43b000-ae68-11eb-83f8-9d5a91ea4bda.png)
+![image](https://user-images.githubusercontent.com/57385355/117375295-4fac0b00-ae94-11eb-8405-66593f512de9.png)
 
 ## License
 
